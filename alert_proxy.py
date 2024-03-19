@@ -40,7 +40,3 @@ class AlertProxy:
 
     def start(self):
         run_app(self.app, host=self.address, port=self.port)
-
-    def send(self, message):
-        self.alert.send(message)
-        return self.alert
