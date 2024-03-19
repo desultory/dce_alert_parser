@@ -4,6 +4,6 @@ This is a simple alert parser and proxy for DCE. It listens for alerts from DCE 
 
 ## Usage
 
-./main.py -u <username> -p <password> --target <target URL>
+./main.py -u \<username\> -p \<password\> --target \<target URL\>
 
 
