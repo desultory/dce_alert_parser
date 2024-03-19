@@ -1,5 +1,5 @@
 __version__ = '0.6.1'
-__author__ = 'dev@pyl.onl'
+__author__ = 'desultory'
 
 import re
 
